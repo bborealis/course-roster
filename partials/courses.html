@@ -1,7 +1,7 @@
 <div ng-show="courses.length">
   <h1>Here are all of your courses:</h1>
   <ul>
-    <li ng-repeat="item in courses">
+    <li ng-repeat="item in courses" debug>
       <a ui-sref="courses.students({ courseId: item.id })">{{ item.name }}</a>
     </li>
   </ul>
@@ -17,7 +17,9 @@
   </form>
 </div>
 
-<div sample-course courseName="English"></div>
+<input type="text" ng-model="ctrlCourse">
+<!-- <div sample-course course-name=ctrlCourse></div> -->
+<div alert-user alarm="alarm()"></div>
 
 
 <div ui-view="body"></div>
