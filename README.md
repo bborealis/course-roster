@@ -2,7 +2,7 @@
 
 ##### _Student Roster Creator 9/23/2015_
 
-#### By Brian Borealis and Steve Smietana
+#### By Brian Borealis, Steve Smietana and Chris Swan
 
 ## Description
 
@@ -20,7 +20,7 @@ Angular, Javascript, HTML, CSS, Bootstrap._
 
 ### Legal
 
-Copyright (c) 2015 Brian Borealis and Steve Smietana
+Copyright (c) 2015 Brian Borealis, Chris Swan and Steve Smietana
 
 This software is licensed under the MIT license.
 
